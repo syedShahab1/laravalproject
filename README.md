@@ -13,14 +13,14 @@ Go to inbox copy username and paste on MAIL_USERNAME in (.env) file, similarly f
 
 ## Usage:
 - Clone this project from Github.
-- start The web server and install the given (.sql) file in DB name as (laravel).
-- you can also migrate the tables if you dont want to import the given (.sql) file. The Command to migrate the DB TABLES is 
+- Start The web server and install the given (.sql) file in DB name as (laravel).
+- you can also migrate the tables if you dont want to import the given (.sql) file. The command to migrate the DB TABLES is 
 ```bash
 php artisan migrate
 ```
 - If you change the DB name then Update that name in (.env) file. 
 - if your web server have any username password then update that in (.env) file aswell.
-- open GitBash/CMD in the project directory and hit 
+- Open GitBash/CMD in the project directory and hit 
 ```bash
 php artisan serve
 ```
