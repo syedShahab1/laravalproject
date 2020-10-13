@@ -1,9 +1,9 @@
-#Laraval Assignment
-##Discription:
+# Laraval Assignment
+## Discription:
 In this project, you can do login, signup, Change password, forget password, 
 change user name, change self discription and also update your profile picture (on update file also deleted from server)
 
-##Usage:
+## Usage:
 1-Clone this project from Github.
 2-start The web server and install the given (.sql) file in DB name as (laravel).
 2.1- you can also migrate the tables if you dont want to import the given (.sql) file. The Command to migrate the DB TABLES is 
