@@ -4,7 +4,7 @@ In this project, you can do login, signup, Change password, forget password,
 change user name, change self discription and also update your profile picture (on update file also deleted from server)
 
 
-## PRE REQUISITE
+## Pre requisite:
 For forgetting password/reset password, if you are not register on https://mailtrap.io/ register your self on
 ```bash
 https://mailtrap.io/
